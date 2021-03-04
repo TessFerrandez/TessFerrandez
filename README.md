@@ -15,7 +15,8 @@ I'm a developer at Microsoft with a passion for sharing, development, good engin
 
 ### Some cool repos I contribute to
 
-[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=magicaks&repo=magicaks&theme=light)](https://github.com/magicaks/magicaks)
-[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=code-with-engineering-playbook&theme=light)](https://github.com/microsoft/code-with-engineering-playbook)
+[![MagicAKS](https://github-readme-stats.vercel.app/api/pin/?username=magicaks&repo=magicaks&theme=light)](https://github.com/magicaks/magicaks)
+[![Code with engineering playbook](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=code-with-engineering-playbook&theme=light)](https://github.com/microsoft/code-with-engineering-playbook)
 [![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio&theme=light)](https://github.com/microsoft/presidio)
-[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=tessferrandez&repo=buggybits&theme=light)](https://github.com/tessferrandez/buggybits)
+[![Modern Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=azure-samplesrepo=modern-data-warehouse-dataops&theme=light)](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
+[![Buggy Bits](https://github-readme-stats.vercel.app/api/pin/?username=tessferrandez&repo=buggybits&theme=light)](https://github.com/tessferrandez/buggybits)
