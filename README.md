@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Tess Ferrandez
 
-<!--
-**TessFerrandez/TessFerrandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: tessferrandez](https://img.shields.io/badge/-tessferrandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omrimendels)](https://www.linkedin.com/in/tessferrandez)
+[![GitHub tessferrandez](https://img.shields.io/github/followers/tessferrandez?label=follow&style=social)](https://github.com/tessferrandez)
 
-Here are some ideas to get you started:
+I'm a developer at Microsoft with a passion for sharing, development, good engineering fundamentals, machine learning, good documentation and last but not least debugging (memory dump style).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- If you're interested in .net memory dump debugging you should visit my blog at [https://www.tessferrandez.com](https://www.tessferrandez.com) or try my [.net debugging labs](https://github.com/tessferrandez/buggybits)
+- For engineering fundamentals I recommend the [CSE Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/).
+- If you're work with AKS you may also be interested in [MagicAKS](https://github.com/magicaks/magicaks) - an opinionated repo for setting up AKS. 
+- And if you work with data or machine learning and need to analyze data for PII or anonymize it, [Presidio](https://github.com/microsoft/presidio) might tickle your fancy
+
+![top langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=TessFerrandez&hide=jupyter%20notebook,html&theme=light)
+![repo stats](https://github-readme-stats.vercel.app/api?username=tessferrandez&show_icons=true&theme=light&line_height=27)
+
+### Some cool repos I contribute to
+
+[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=magicaks&repo=magicaks&theme=light)](https://github.com/magicaks/magicaks)
+[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=code-with-engineering-playbook&theme=light)](https://github.com/microsoft/code-with-engineering-playbook)
+[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio&theme=light)](https://github.com/microsoft/presidio)
+[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=tessferrandez&repo=buggybits&theme=light)](https://github.com/tessferrandez/buggybits)
