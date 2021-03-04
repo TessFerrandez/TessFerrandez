@@ -1,6 +1,6 @@
 ### Hi, I'm Tess Ferrandez
 
-[![Linkedin: tessferrandez](https://img.shields.io/badge/-tessferrandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omrimendels)](https://www.linkedin.com/in/tessferrandez)
+[![Linkedin: tessferrandez](https://img.shields.io/badge/-tessferrandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omrimendels)](https://www.linkedin.com/in/tess-ferrandez-97845a5/)
 [![GitHub tessferrandez](https://img.shields.io/github/followers/tessferrandez?label=follow&style=social)](https://github.com/tessferrandez)
 
 I'm a developer at Microsoft with a passion for sharing, development, good engineering fundamentals, machine learning, good documentation and last but not least debugging (memory dump style).
