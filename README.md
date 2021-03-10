@@ -5,7 +5,7 @@
 
 I'm a developer at Microsoft with a passion for sharing, development, good engineering fundamentals, machine learning, good documentation and last but not least debugging (memory dump style).
 
-- If you're interested in .net memory dump debugging you should visit my blog at [https://www.tessferrandez.com](https://www.tessferrandez.com) or try my [.net debugging labs](https://github.com/tessferrandez/buggybits)
+- If you're interested in .NET memory dump debugging you should visit my blog at [https://www.tessferrandez.com](https://www.tessferrandez.com) or try my [.NET debugging labs](https://github.com/tessferrandez/buggybits)
 - For engineering fundamentals I recommend the [CSE Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/).
 - If you're work with AKS you may also be interested in [MagicAKS](https://github.com/magicaks/magicaks) - an opinionated repo for setting up AKS. 
 - And if you work with data or machine learning and need to analyze data for PII or anonymize it, [Presidio](https://github.com/microsoft/presidio) might tickle your fancy
