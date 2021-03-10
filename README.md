@@ -10,8 +10,8 @@ I'm a developer at Microsoft with a passion for sharing, development, good engin
 - If you're work with AKS you may also be interested in [MagicAKS](https://github.com/magicaks/magicaks) - an opinionated repo for setting up AKS. 
 - And if you work with data or machine learning and need to analyze data for PII or anonymize it, [Presidio](https://github.com/microsoft/presidio) might tickle your fancy
 
-![top langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=TessFerrandez&hide=jupyter%20notebook,html&theme=light)
-![repo stats](https://github-readme-stats.vercel.app/api?username=tessferrandez&show_icons=true&theme=light&line_height=27)
+![top langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=TessFerrandez&hide=jupyter%20notebook,html)
+![repo stats](https://github-readme-stats.vercel.app/api?username=tessferrandez&show_icons=true&line_height=27)
 
 ### Some cool repos I contribute to
 
