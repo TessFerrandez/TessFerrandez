@@ -18,12 +18,3 @@ I also love drawing - here are some sketch notes I created on [Deep Learning](ht
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tessferrandez&hide=jupyter%20notebook,html&langs_count=3)
 ![repo stats](https://github-readme-stats.vercel.app/api?username=tessferrandez&show_icons=true&line_height=27)
-
-### Some cool repos I contribute to
-
-[![AzureTRE](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=azuretre&theme=light)](https://github.com/microsoft/azuretre)
-[![Code with engineering playbook](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=code-with-engineering-playbook)](https://github.com/microsoft/code-with-engineering-playbook)
-[![Modern Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=Azure-Samples&repo=modern-data-warehouse-dataops)](https://github.com/Azure-Samples/modern-data-warehouse-dataops)
-[![Buggy Bits](https://github-readme-stats.vercel.app/api/pin/?username=tessferrandez&repo=buggybits)](https://github.com/tessferrandez/buggybits)
-[![Presidio](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio)](https://github.com/microsoft/presidio)
-[![MagicAKS](https://github-readme-stats.vercel.app/api/pin/?username=magicaks&repo=magicaks&theme=light)](https://github.com/magicaks/magicaks)
