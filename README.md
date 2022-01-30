@@ -3,7 +3,7 @@
 [![Linkedin: tessferrandez](https://img.shields.io/badge/-tessferrandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omrimendels)](https://www.linkedin.com/in/tess-ferrandez-97845a5/)
 [![GitHub tessferrandez](https://img.shields.io/github/followers/tessferrandez?label=follow&style=social)](https://github.com/tessferrandez)
 
-I'm a developer at Microsoft with a passion for sharing, development, good engineering fundamentals, machine learning, good documentation and last but not least debugging (memory dump style).
+I'm a developer at Microsoft with a passion for sharing, development, good engineering fundamentals, machine learning, good documentation and last but not least debugging (memory dump style). I also love anything related to algorithms, programming puzzles, language theory and automata <3.
 
 - **Presentations:** I present, mostly on development, debugging and machine learning - check out my slides and videos here [https://www.tessferrandez.com/presentations/](https://www.tessferrandez.com/presentations/)
 - **.NET Memory Dump Debugging:** I blog about debugging and other topics at [https://www.tessferrandez.com](https://www.tessferrandez.com), but you should also try my [.NET debugging labs](https://github.com/tessferrandez/buggybits)
